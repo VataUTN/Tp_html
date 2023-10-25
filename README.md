@@ -10,8 +10,7 @@ Este README proporciona una descripción general del código de la aplicación "
 - [Uso](#uso)
 - [Estructura de Archivos](#estructura-de-archivos)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Introducción
 
@@ -74,10 +73,4 @@ La "Aplicación de Tareas Pendientes" utiliza las siguientes tecnologías y bibl
 - **Node.js y npm**: Node.js se utiliza para ejecutar un servidor de desarrollo local y gestionar las dependencias.
 - **Fetch API**: Se utiliza para realizar solicitudes HTTP asincrónicas para obtener tareas.
 
-## Contribuciones
 
-Si deseas contribuir al proyecto, por favor abre un problema o envía una solicitud de extracción en el repositorio del proyecto en GitHub.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
