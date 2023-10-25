@@ -44,7 +44,7 @@ Sigue estos pasos para ejecutar la "Aplicación de Tareas Pendientes" en tu máq
    json-server --watch db.json
    ```
 
-5. La aplicación debería ser accesible en tu navegador web en `http://localhost:3000`.
+5. La aplicación debería ser accesible en tu navegador web en `http://localhost:63342/tp/index.html`.
 
 ## Uso
 
