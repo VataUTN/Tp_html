@@ -35,13 +35,13 @@ Sigue estos pasos para ejecutar la "Aplicación de Tareas Pendientes" en tu máq
 3. Instala las dependencias requeridas ejecutando el siguiente comando:
 
    ```bash
-   npm install
+   npm install -g json-server
    ```
 
 4. Inicia la aplicación ejecutando:
 
    ```bash
-   npm start
+   json-server --watch db.json
    ```
 
 5. La aplicación debería ser accesible en tu navegador web en `http://localhost:3000`.
