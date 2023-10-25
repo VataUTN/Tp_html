@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/foto-gratis/gente-negocios-organizando-varias-notas-adhesivas-texto-vidrio-oficina_662251-1531.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 5,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/vector-gratis/gente-pequena-haciendo-lista-prioridades-pagina-inicio-plana_74855-20249.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 6,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/foto-gratis/concepto-estrategia-planificacion-estrategia-marketing_53876-42950.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 7,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/foto-gratis/hombres-negocios-asiaticos-mujeres-negocios-que-reunen-intercambiar-ideas-sobre-aplicacion-planificacion-diseno-web-creativo-desarrollar-diseno-plantilla-proyectos-telefonos-moviles-que-trabajan-juntos-oficina-pequena_7861-2682.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=ais"
+    },
+    {
+      "id": 8,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/foto-gratis/colegas-dando-golpe-puno_53876-64857.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=ais"
+    },
+    {
+      "id": 9,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/foto-gratis/vista-lateral-personas-negocios-recortadas-irreconocibles-que-trabajan-escritorio-comun_1098-20474.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph "
+    },
+    {
+      "id": 10,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La página web actual de mi empresa es un poco anticuada y necesita ser actualizada. Quiero crear una nueva página web que sea más moderna y atractiva, y que sea fácil de usar para los clientes. Para ello, necesito diseñar una nueva estructura para la página web, crear nuevos diseños para las páginas, y desarrollar el código para la nueva página web.",
+      "image": "https://img.freepik.com/vector-gratis/ilustracion-concepto-codificacion-manual_114360-8193.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 2,
+      "title": "Desarrollar una nueva función para mi aplicación móvil",
+      "category": "En Progreso",
+      "description": "Estoy desarrollando una nueva función para mi aplicación móvil que permitirá a los usuarios compartir sus fotos y vídeos con sus amigos. La función ya está en desarrollo, pero aún queda mucho trabajo por hacer. En este momento, estoy trabajando en la interfaz de usuario de la función. Una vez que la interfaz de usuario esté completa, me centraré en el desarrollo del backend de la función.",
+      "image": "https://img.freepik.com/vector-gratis/fondo-construccion-hecho-mano_23-2147734520.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=ais"
+    },
+    {
+      "id": 3,
+      "title": "Probar la nueva versión de mi software",
+      "category": "Por Testear",
+      "description": "He lanzado una nueva versión de mi software, y necesito probarla a fondo para asegurarme de que funciona correctamente. Voy a probar el software en una variedad de dispositivos y configuraciones para asegurarme de que no hay problemas de compatibilidad. También voy a probar el software en diferentes escenarios de uso para asegurarme de que funciona como se espera.",
+      "image": "https://img.freepik.com/vector-gratis/probador-qa-kit-desarrollo-analizando-codigo-binario-inspeccion-cercana-codificacion-verificacion-script-abierto-administracion-sitios-web-reafirmando-calidad-ilustracion-metafora-concepto-aislado-vector_335657-2131.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 4,
+      "title": "Publicar un nuevo artículo en mi blog",
+      "category": "Completadas",
+      "description": "He publicado un nuevo artículo en mi blog sobre un tema que me apasiona. El artículo ha sido bien recibido por mis lectores, y ha generado mucho interés. Estoy muy contento de haber publicado este artículo, y espero poder seguir escribiendo artículos de calidad en el futuro.",
+      "image": "https://img.freepik.com/vector-gratis/ilustracion-concepto-calidad-producto_114360-7301.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    }
+  ]
+}
